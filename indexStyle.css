@@ -1,0 +1,40 @@
+.clear{
+ clear: both;
+}
+.wrapper{
+ width: 1920px;
+ margin: 50px auto;
+}
+.header{
+ background-color: aqua;
+ width: 100%;
+ height: 200px;
+ border-radius: 5px;
+}
+.top_menu{
+ background-color: darkgoldenrod;
+ width: 100%;
+ height: 50px;
+ margin-top: 5px;
+}
+.sideLeft{
+ background-color: brown;
+ width: 30%;
+ height: 354px;
+ margin-top: 5px;
+ padding: 1px 0;
+ float: left;
+}
+.content{
+ background-color: antiquewhite;
+ width: 69%;
+ margin-top: 5px;
+ height: 355px;
+ float: right;
+}
+.footer{
+ background-color: darkslateblue;
+ width: 100%;
+ margin-top: 5px;
+ height: 70px;
+}
